@@ -51,7 +51,7 @@ Kali Linux, VirtualBox, Nmap, Wireshark, TCPdump, Burp Suite, Netcat, OpenSSL, M
 │   ├── crypto-demo/
 │   ├── video-script.md
 │   └── Task1_Lab_Setup_Report.docx
-├── task-02-network-security-scanning/        (coming)
+├── task-02-network-security-scanning/        (completed)
 ├── task-03-web-application-security/         (coming)
 ├── task-04-exploitation-system-security/     (coming)
 └── task-05-capstone-incident-response/       (coming)
