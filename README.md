@@ -14,12 +14,12 @@ This work also supports my final-semester project (IDP) for the **M.Sc. Cyber Se
 | Task | Title | Timeline | Status | Folder |
 |---|---|---|---|---|
 | 1 | Foundations of Cybersecurity (Foundation & Environment Setup) | Days 1-12 | Completed | [`task-01-foundation-lab/`](task-01-foundation-lab/) |
-| 2 | Network Security & Scanning | Days 13-24 | Pending | `task-02-network-security-scanning/` |
+| 2 | Network Security & Scanning | Days 13-24 | Completed | [`task-02-network-security-scanning/`](task-02-network-security-scanning/) |
 | 3 | Web Application Security | Days 25-36 | Pending | `task-03-web-application-security/` |
 | 4 | Exploitation & System Security | Days 37-48 | Pending | `task-04-exploitation-system-security/` |
 | 5 | Capstone Project & Incident Response | Days 49-60 | Pending | `task-05-capstone-incident-response/` |
 
-Each task folder will be added as the task is completed.
+Each task folder is added as the task is worked on.
 
 ## Task 1 Highlights
 
