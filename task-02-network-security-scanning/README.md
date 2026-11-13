@@ -39,10 +39,10 @@ task-02-network-security-scanning/
 
 ## Deliverables Checklist
 
-- [*] Nmap scan report (`scans/`)
-- [*] OpenVAS vulnerability report (`reports/`)
-- [*] Detailed scan analysis (report + notes)
-- [*] 5-minute demo video (LinkedIn "Featured")
+- [x] Nmap scan report (`scans/`)
+- [x] OpenVAS vulnerability report (`reports/`)
+- [x] Detailed scan analysis (report + notes)
+- [x] 5-minute demo video (LinkedIn "Featured")
 
 ## Disclaimer
 
