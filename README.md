@@ -51,7 +51,23 @@ Kali Linux, VirtualBox, Nmap, Wireshark, TCPdump, Burp Suite, Netcat, OpenSSL, M
 │   ├── crypto-demo/
 │   ├── video-script.md
 │   └── Task1_Lab_Setup_Report.docx
-├── task-02-network-security-scanning/        (completed)
+├── task-02-network-security-scanning/
+│   ├── README.md
+│   ├── notes/
+│   │   ├── 01-reconnaissance.md
+│   │   ├── 02-port-service-scanning.md
+│   │   ├── 03-vulnerability-scanning-openvas.md
+│   │   ├── 04-wireshark-traffic-analysis.md
+│   │   └── 05-firewall-iptables.md
+│   ├── lab-guide.md
+│   ├── scripts/
+│   │   └── scan-target.sh
+│   ├── scans/                    (Nmap output files: .nmap, .gnmap, .xml)
+│   ├── reports/                  (OpenVAS PDF report)
+│   ├── captures/                 (Wireshark .pcapng files)
+│   ├── screenshots/
+│   ├── video-script.md
+│   └── Task2_Network_Scanning_Report.docx
 ├── task-03-web-application-security/         (coming)
 ├── task-04-exploitation-system-security/     (coming)
 └── task-05-capstone-incident-response/       (coming)
@@ -63,7 +79,7 @@ Each task folder contains the objective, setup, steps performed, findings with s
 
 ## Ethical Disclaimer
 
-All testing is performed only in legal lab environments (my own isolated VMs, DVWA, Metasploitable, TryHackMe, Hack The Box) or on systems I am explicitly authorised to test. This repository contains no real credentials, personal data or unauthorised targets. The content is for education only.
+All testing is performed only in legal lab environments (my own isolated VMs, DVWA, Metasploitable, TryHackMe, Hack The Box) or on systems I am explicitly authorised to test. This repository contains [...]
 
 ## Connect
 
