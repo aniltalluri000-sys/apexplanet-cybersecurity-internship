@@ -44,7 +44,7 @@ Host-Only network: `192.168.56.0/24` (VirtualBox default).
 
 - [x] Notes and Linux cheat-sheet (this repo)
 - [x] Lab Setup Report with screenshots
-- [x] 5-minute video walkthrough (LinkedIn "Featured")
+- [x] 5-minute video walkthrough (LinkedIn "Featured"): https://www.linkedin.com/feed/update/urn:li:ugcPost:7519791706100289536/
 
 ## Disclaimer
 
