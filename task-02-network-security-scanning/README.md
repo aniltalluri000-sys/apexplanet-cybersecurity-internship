@@ -42,7 +42,7 @@ task-02-network-security-scanning/
 - [x] Nmap scan report (`scans/`)
 - [x] OpenVAS vulnerability report (`reports/`)
 - [x] Detailed scan analysis (report + notes)
-- [x] 5-minute demo video (LinkedIn "Featured")
+- [x] 5-minute demo video (LinkedIn "Featured"): https://www.linkedin.com/feed/update/urn:li:activity:7527292140029272064/
 
 ## Disclaimer
 
